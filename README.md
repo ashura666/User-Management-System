@@ -41,7 +41,7 @@ src/main/java/com/example/usermanagement
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repo:
-git clone https://github.com/<your-username>/User-Management-System.git
+git clone https://github.com<your-username>/User-Management-System.git
 cd User-Management-System
 
 ### 2. Configure Database:
